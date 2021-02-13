@@ -1,0 +1,94 @@
+body{
+    background-color: #b88747;
+}
+.header{
+    display: flex;
+    height: 400px;
+    background-image: url(woodbg.png);
+    background-repeat: no-repeat;
+    background-size: 110%;
+    
+
+    
+}
+h1{
+    color: white;
+    text-align: center;
+}
+.paragraph{
+    color: white;
+    display: flexbox;
+    height: 400px;
+    background-image: url(woodbg.PNG);
+    background-repeat: no-repeat;
+    background-size: 1400px 500px;
+    text-align: center;
+    font-size: 30px;
+}
+.flex-container{
+display: flex;
+font-weight:bold;
+}
+.flexbox-item-1{
+    display: grid;
+    width: 193px;
+    height: 350px;
+    margin: 5px;
+    border: 5px solid black;
+    text-align:center;
+     
+    background-color:#DEB887;
+    
+}
+.flexbox-item-2{
+    display: grid;
+    background-color: #cae00d;
+    width: 193px;
+    height: 350px;
+    margin: 5px;
+    border: 5px solid black;
+    text-align:center;
+     
+}
+.flexbox-item-3{
+    display: grid;
+    background-color: #89cff0;
+    width: 193px;
+    height: 350px;
+    margin: 5px;
+    border: 5px solid black;
+    text-align:center;
+
+}
+.flexbox-item-4{
+    display: grid;
+    background-color:#fada5e;
+    background-repeat: no-repeat;
+    background-size: 200px;
+    width: 193px;
+    height: 350px;
+    margin: 5px;
+    border: 5px solid black;
+    text-align:center;
+
+}
+.flexbox-item-5{
+    display: grid;
+    background-image: url(bamboo.png);
+    width: 193px;
+    height: 350px;
+    margin: 5px;
+    border: 5px solid black;
+    text-align:center;
+
+}
+.flexbox-item-6{
+    display: grid;
+    background-color: #5f9ea0;
+    width: 193px;
+    height: 350px;
+    margin: 5px;
+    border: 5px solid black;
+    text-align:center;
+
+}
